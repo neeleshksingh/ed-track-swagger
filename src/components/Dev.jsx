@@ -7,7 +7,7 @@ const Dev = () => {
         { name: 'Examinations', url: 'https://api-dev-examinations.bimsr.com/swagger/index.html' },
         { name: 'Academics', url: 'https://api-dev-academics.bimsr.com/swagger/index.html' },
         { name: 'Accounts', url: 'https://api-dev-accounts.bimsr.com/swagger/index.html' },
-        { name: 'HR', url: 'https://api-dev-hr.bimsr.com/swagger/index.html' },
+        { name: 'HR', url: 'https://api-dev-humanresources.bimsr.com/swagger/index.html' },
         { name: 'Administrations', url: 'https://api-dev-administrations.bimsr.com/swagger/index.html' },
         { name: 'Onboard Student', url: 'https://api-dev-onboardstudent.bimsr.com/swagger/index.html' },
         { name: 'Leads', url: 'https://api-dev-leads.bimsr.com/swagger/index.html' },
